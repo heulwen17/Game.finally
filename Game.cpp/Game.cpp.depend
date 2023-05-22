@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1683712528 source:c:\game.cpp\main.cpp
+	"Game.h"
+
+1684418658 c:\game.cpp\include\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<stdio.h>
+	"Board.h"
+	"Paddle.h"
+	"Ball.h"
+
+1683764915 c:\game.cpp\include\board.h
+	"Object.h"
+	<stdlib.h>
+	<time.h>
+
+1683338885 c:\game.cpp\include\object.h
+	<SDL.h>
+	<SDL_image.h>
+
+1683338885 c:\game.cpp\include\paddle.h
+	"Object.h"
+
+1683338885 c:\game.cpp\include\ball.h
+	"Object.h"
+	<math.h>
+
+1683757543 source:c:\game.cpp\src\ball.cpp
+	"Ball.h"
+	<iostream>
+
+1683759185 source:c:\game.cpp\src\board.cpp
+	"Board.h"
+
+1684418436 source:c:\game.cpp\src\game.cpp
+	"Game.h"
+
+1683437622 source:c:\game.cpp\src\object.cpp
+	"Object.h"
+
+1683338885 source:c:\game.cpp\src\paddle.cpp
+	"Paddle.h"
+
